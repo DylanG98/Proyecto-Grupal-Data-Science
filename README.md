@@ -1,5 +1,11 @@
 # Proyecto-Grupal-Data-Science
 # Google Maps
+# <h1 align="center">**`Google Maps REVIEWS AND RECOMMENDATIONS`**</h1>
+
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Google_Maps_Logo_2020.svg/512px-Google_Maps_Logo_2020.svg.png"  height="200">
+</p>
+
 "Google posee una plataforma de reseñas de todo tipo de negocios, restaurantes, hoteles, servicios, entre otros. Los usuarios utilizan el servicio y luego suben su reseña según la experiencia vivida. Muchos usuarios leen las reseñas de los lugares a los que planean ir para tomar decisiones sobre dónde comprar, comer, dormir, reunirse, etc. Esta información es muy valiosa para las empresas, ya que les sirve para enterarse de la imagen que tienen los usuarios de los distintos locales de la empresa, siendo muy útil para medir el desempeño, utilidad del local, además de identificar los aspectos del servicio a mejorar. 
 
 # Planteo del Proyecto:
