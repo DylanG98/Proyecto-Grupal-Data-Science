@@ -89,9 +89,19 @@ es un “framework” de Python de código abierto que permite de manera sencill
 es un lenguaje de programación de propósito general que se ejecuta en casi todas las arquitecturas de sistemas y se puede utilizar para una amplia gama de aplicaciones en diferentes campos, desde el desarrollo web hasta el aprendizaje automático.
 
 # Participantes del Proyecto:
-# * Dylan Guzman
-Product Manager
-& Data Analist
+#  Dylan Guzman: 
+Product Manager & Data Analist
 
+# Ezequiel Lauxmann:
+Data Engineer & Cloud architect
+
+# Jhony Valdez:
+Data Scientist
+
+# Juan Carlos Espiritu Campos:
+Data Engineer & Cloud architect
+
+# Carmen Mariana Hernandez 
+Data Analist
 
 
