@@ -42,4 +42,40 @@ Databricks consiste en una plataforma interactiva y colaborativa en la nube basa
 
 Spark es un motor ultrarrápido para el almacenamiento, procesamiento y análisis de grandes volúmenes de datos. Es de código abierto y se encuentra gestionado por la Apache Software Foundation. Por tanto, la herramienta se conoce como Apache Spark y es uno de sus proyectos más activos.
 
+<p align="center">
+<img src="https://tv-wordpress.s3.amazonaws.com/a/wp-content/uploads/hadoop-elephant_logo.png" height="200">
+</p>
+
+Hadoop es una estructura de software de código abierto para almacenar datos y ejecutar aplicaciones en clústeres de hardware comercial. Proporciona almacenamiento masivo para cualquier tipo de datos, enorme poder de procesamiento y la capacidad de procesar tareas o trabajos concurrentes virtualmente ilimitados.
+
+<p align="center">
+<img src="https://th.bing.com/th/id/R.6ff6a5ec2e69dbab5b646e2ccbe096ab?rik=e82iWtNnrojMEQ&pid=ImgRaw&r=0" height="200">
+</p>
+
+Amazon Web Services (AWS) es una plataforma integral de computación en la nube que incluye ofertas de infraestructura como servicio (IaaS) y de plataforma como servicio (PaaS). Los servicios de AWS ofrecen soluciones escalables para la computación, el almacenamiento, las bases de datos, el análisis y mucho más.
+
+
+<p align="center">
+<img src="https://miro.medium.com/max/552/1*oMF1BUL9OLz4r8p8GqvSPg.jpeg" height="200">
+</p>
+
+Microsoft Azure es una herramienta que ha creado la empresa Microsoft mediante al cual seremos capaces de crear nuestros propios servicios en la nube. Nos referimos a servicios en el sentido de disponer de una base de datos que no está ubicada en nuestro equipo, tener nuestros archivos almacenados en un directorio remoto, y así con todo lo que se nos pueda ocurrir hacer en Internet.
+
+<p align="center">
+<img src="https://th.bing.com/th/id/R.a80c29693eeadfce4c8504d08bef486a?rik=eaHG5xWhxgFeGA&pid=ImgRaw&r=0" height="200">
+</p>
+
+Power BI es una colección de servicios de software, aplicaciones y conectores que funcionan conjuntamente para convertir orígenes de datos sin relación entre sí en información coherente, interactiva y atractiva visualmente. 
+
+<p align="center">
+<img src="https://th.bing.com/th/id/OIP.8_tOPp_41jV_3X8RE4E7fwHaEb?pid=ImgDet&rs=1" height="200">
+</p>
+
+Streamlit es un “framework” de Python de código abierto que permite de manera sencilla e integrada desarrollar aplicaciones gracias a la interacción con otras librerías para su empleo en campos de la teledetección, ciencia de datos, etc.
+
+<p align="center">
+<img src="https://i0.wp.com/tinkercademy.com/wp-content/uploads/2018/04/python-icon.png?ssl=1" height="200">
+</p>
+
+Python es un lenguaje de programación de propósito general que se ejecuta en casi todas las arquitecturas de sistemas y se puede utilizar para una amplia gama de aplicaciones en diferentes campos, desde el desarrollo web hasta el aprendizaje automático.
 # Participantes del Proyecto:
