@@ -12,20 +12,24 @@
 "Como parte de una consultora de data, te han contratado para poder realizar un análisis del mercado estadounidense. El cliente es parte de un conglomerado de empresas de restaurantes y afines. Desean tener un análisis detallado de la opinión de los usuarios en Google Maps sobre hoteles, restaurantes y otros negocios afines al turismo y ocio. A partir del uso de análisis de sentimientos, predecir cuáles serán los rubros de los negocios que más crecerán (o decaerán). Además, desean saber dónde es conveniente establecer los nuevos locales de restaurantes y afines. Asimismo, desean poder tener un sistema de recomendación de restaurantes para los usuarios de Google para darle al usuario la posibilidad de poder conocer nuevos sabores a partir de sus experiencias previas. Nota: Pueden cambiar el tipo de comercio objetivo (no es necesario que sean restaurantes). "
 
 # OBJETIVO:
-PRIMARIO:
+Desarrollar análisis de mercado con los datos de revisiones y cotizaciones de acciones,
+Podremos descubrir las tendencias del mercado.
 
-SECUNDARIO:
+# Sistema de recomendación
+Proporcionar a los usuarios la posibilidad de descubriendo nuevas experiencias.
 
-# Datos
+# ALCANCE DEL PROYECTO
+EN ESTE MOMENTO
+Vamos a especificar nuestro Proyecto para el Metropolitano área de Nueva York, dado el  tiempo que tenemos.
+ EN EL FUTURO
+Considerando el éxito y rendimiento de nuestro proyecto, La posibilidad de ampliar a todo el territorio de los Estados Unidos.
 
 
-# Procesos:
-
-
-# Worflow:
-
-
-# Modelo de Machine Learning:
+#herramientas tecnologicas:
+<p align="center">
+<img src="https://th.bing.com/th/id/OIP.4AKzxT0yAHoai8GVAAVOwAHaH2?pid=ImgDet&w=485&h=514&rs=1" height="200">
+</p>
+El Lenguaje de Consulta Estructurada (SQL) es un lenguaje gestor para el manejo de la información en las bases de datos relacionales. Este tipo de lenguaje de programación permite comunicarse con la base de datos y realizar operaciones de acceso y manipulación de la información almacenada.
 
 
 # Participantes del Proyecto:
