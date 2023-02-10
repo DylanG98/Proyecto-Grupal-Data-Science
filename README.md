@@ -25,11 +25,21 @@ Vamos a especificar nuestro Proyecto para el Metropolitano área de Nueva York, 
 Considerando el éxito y rendimiento de nuestro proyecto, La posibilidad de ampliar a todo el territorio de los Estados Unidos.
 
 
-#herramientas tecnologicas:
+# herramientas tecnologicas:
 <p align="center">
 <img src="https://th.bing.com/th/id/OIP.4AKzxT0yAHoai8GVAAVOwAHaH2?pid=ImgDet&w=485&h=514&rs=1" height="200">
 </p>
 El Lenguaje de Consulta Estructurada (SQL) es un lenguaje gestor para el manejo de la información en las bases de datos relacionales. Este tipo de lenguaje de programación permite comunicarse con la base de datos y realizar operaciones de acceso y manipulación de la información almacenada.
 
+<p align="center">
+<img src="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2020/03/databricks.png?fit=1200%2C630&ssl=1" height="200">
+</p>
+Databricks consiste en una plataforma interactiva y colaborativa en la nube basada Apache Spark que se emplea para el proceso, análisis y transformación de datos, facilitando el diseño de modelos de aprendizaje automático complejos (Machine Learning). Su creación y desarrollo estuvo a cargo de los fundadores de Apache Spark.
+
+<p align="center">
+<img src="https://www.data-science-blog.com/wp-content/uploads/2016/08/spark-header.png" height="200">
+</p>
+
+Spark es un motor ultrarrápido para el almacenamiento, procesamiento y análisis de grandes volúmenes de datos. Es de código abierto y se encuentra gestionado por la Apache Software Foundation. Por tanto, la herramienta se conoce como Apache Spark y es uno de sus proyectos más activos.
 
 # Participantes del Proyecto:
