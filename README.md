@@ -87,4 +87,11 @@ es un “framework” de Python de código abierto que permite de manera sencill
 
 # Python 
 es un lenguaje de programación de propósito general que se ejecuta en casi todas las arquitecturas de sistemas y se puede utilizar para una amplia gama de aplicaciones en diferentes campos, desde el desarrollo web hasta el aprendizaje automático.
+
 # Participantes del Proyecto:
+# * Dylan Guzman
+Product Manager
+& Data Analist
+
+
+
