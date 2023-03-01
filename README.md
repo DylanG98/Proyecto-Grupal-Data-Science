@@ -90,7 +90,7 @@ es un lenguaje de programación de propósito general que se ejecuta en casi tod
 
 # Participantes del Proyecto:
 #  Dylan Guzman: 
-Product Manager & Data Analist
+Product Manager & Data Analyst
 
 # Ezequiel Lauxmann:
 Data Engineer & Cloud architect
@@ -102,6 +102,6 @@ Data Scientist
 Data Engineer & Cloud architect
 
 # Carmen Mariana Hernandez 
-Data Analist
+Data Analyst
 
 
