@@ -85,8 +85,9 @@ class GooglePlacesAPI:
             else:
                 df_final = pd.concat([df_final, df])
         return df_final
-
+# Lista para variar parametros de palabras clave
 list_rest = ['Coffee shop', 'Cafe', 'Fast food restaurant', 'Chinese restaurant', 'Pizza restaurant', 'Auto repair shop', 'Nail salon','Barber shop', 'Gas station', 'Beauty salon', 'Hair salon', 'Auto body shop', 'Tattoo shop', 'Bakery','Restaurant']
+# Lista para variar parametros de locacion
 list_location = ['40.7047,-74.0122',
                 '40.7192,-73.9864',
                 '40.7251,-73.9924',
